@@ -1,0 +1,18 @@
+﻿  Algorithm.cpp
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\LGraph.h(72,28): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Algorithm.cpp”)
+  
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\Algorithm.cpp(99,17): warning C4102: “backtrack”: 未引用的标签
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\Algorithm.cpp(377,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\Algorithm.cpp(377,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\Algorithm.cpp(378,34): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\Algorithm.cpp(378,31): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\LGraph.h(72,28): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\main.cpp(176,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\main.cpp(109,47): warning C4101: “e”: 未引用的局部变量
+C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\main.cpp(245,47): warning C4101: “e”: 未引用的局部变量
+  正在生成代码...
+  CampusNavigation.vcxproj -> C:\Users\16278\Desktop\CampusNavigation-Windows\CampusNavigation\x64\Debug\CampusNavigation.exe
